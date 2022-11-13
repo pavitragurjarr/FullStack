@@ -1,2 +1,3 @@
 # FullStack
-This repository belongs to Pavitra Gurjar
+Author of this repository is Pavitra Gurjar.
+This repository is for Full stack development.
